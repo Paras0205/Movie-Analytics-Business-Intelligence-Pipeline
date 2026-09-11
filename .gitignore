@@ -1,0 +1,16 @@
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Environment / secrets
+.env
+
+# API keys / credentials
+secrets.py
+
+# OS files
+.DS_Store
+Thumbs.db
